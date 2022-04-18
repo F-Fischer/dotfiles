@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francisco.fischer92@gmail.com
+	name = Francisco Fischer
